@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft" >
+
+    <ImageView
+        android:id="@+id/itemLogo"
+        android:layout_width="20dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/acao" />
+    
+    <TextView
+        android:id="@+id/listItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@+id/label"
+        android:textSize="20sp" />
+ 
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <!-- String usadas na aplicação -->
+    <string name="app_name">e-Home Mobile</string>
+    <string name="title_activity_status_controller">Configurações</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="update">Atualizar</string>
+    <string name="configurations_error">Ooops! Erro ao atualizar as configurações!</string>
+    <string name="configurations_success">Wow! Suas configurações foram salvas!</string>
+    <string name="configurations">Configurações</string>
+	<string name="url">URL</string>
+	<string name="email">E-mail</string>
+	<string name="username_config">Nome do utilizador</string>
+	<string name="salvar">Salvar</string>
+	<string name="status_error">Ooops! Erro ao atualizar o status!</string>
+    <string name="status">Status</string>
+    <string name="logout">Sair</string>
+    <string name="login_vazio">Hey! Você precisa digitar usuário e senha!</string>
+    <string name="login_error">Oops! Usuário e/ou senha errado, tente novamente!</string>
+    <string name="carregando">Carregando</string>
+    <string name="painel_de_controle">Painel de Controle</string>
+    <string name="status_changed">Ação executada com sucesso!</string>
+    <string name="status_not_changed">Não foi possível executar a ação!</string>
+    <string name="acao">Executar ação</string>
+    <string name="acoes">Ações</string>
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+    <string name="ligar">Ligar</string>
+    <string name="desligar">Desligar</string>
+    <string name="ler">Ler</string>
+	<string name="read_success">Leitura: </string>
+	<string name="read_error">Não foi possível realizar a leitura!</string>
+    <string name="loading">Carregando</string>
+		
+</resources>
